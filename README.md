@@ -47,13 +47,4 @@ Download the repository as a ZIP file and extract its contents.
 
 4. Visit http://localhost:3000/ in your web browser.
 
-<br><br>
-
-### 📷 Screenshots:
-                                                                                                                                          
-![image](https://github.com/divyanshrampal/expense-tracker/assets/93667147/edd2854b-7071-4129-a1d7-11aa3531e558)
-
-<br><br>
-
-
    
