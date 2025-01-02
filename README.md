@@ -55,9 +55,5 @@ Download the repository as a ZIP file and extract its contents.
 
 <br><br>
 
-<p align='center'>
-    <b>Made by </b>
-    <a href="https://github.com/divyanshrampal">Divyansh Rampal</a>
-</p>
 
    
